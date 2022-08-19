@@ -1,1 +1,5 @@
+com\projeto\paciente\services\PacienteServices.class
 com\projeto\paciente\PacienteApplication.class
+com\projeto\paciente\controller\PacienteController.class
+com\projeto\paciente\model\Paciente.class
+com\projeto\paciente\repository\PacienteRepository.class
