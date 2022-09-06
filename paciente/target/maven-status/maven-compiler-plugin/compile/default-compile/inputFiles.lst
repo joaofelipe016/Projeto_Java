@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 C:\Users\joaof\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\repository\PacienteRepository.java
 C:\Users\joaof\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\services\PacienteServices.java
 C:\Users\joaof\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\controller\PacienteController.java
 C:\Users\joaof\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\PacienteApplication.java
 C:\Users\joaof\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\model\Paciente.java
+=======
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\PacienteApplication.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\model\exception\ResponseNotFoundException.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\services\PacienteServices.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\model\ErrorMensage\ErrorMensage.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\controller\PacienteController.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\handler\RestExceptionHandler.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\model\Paciente.java
+C:\Users\João Felipe\Documents\Projeto_Java\paciente\src\main\java\com\projeto\paciente\repository\PacienteRepository.java
+>>>>>>> fe8517de83eff855a35910a1bd0888b28a93fffe

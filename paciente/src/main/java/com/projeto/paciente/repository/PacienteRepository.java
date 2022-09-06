@@ -1,12 +1,12 @@
 package com.projeto.paciente.repository;
 
 import java.util.ArrayList;
-import java.util.InputMismatchException;
 import java.util.Optional;
 
 import org.springframework.stereotype.Repository;
 
 import com.projeto.paciente.model.Paciente;
+import com.projeto.paciente.model.exception.ResponseNotFoundException;
 
 @Repository
 public class PacienteRepository {
@@ -43,7 +43,7 @@ public class PacienteRepository {
         Optional<Paciente> pacienteEncontrado = obterPorId(paciente.getId());
         
         if(pacienteEncontrado.isEmpty()){
-            throw new InputMismatchException("Paciente não encontrado");
+            throw new ResponseNotFoundException("Paciente não encontrado");
         
         }
 
